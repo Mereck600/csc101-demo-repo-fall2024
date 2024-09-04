@@ -3,14 +3,23 @@
 
 ## Why study computer science?
 
-- ...fill in...
+- To learn more about how computers work and interact with the internet
+- Create new programs
+- Increase you knowledge 
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
+- Linux
+- Git
+- reaact
+- js
+- java
+- python
+- c and C++
+- R
 
 
 
@@ -19,7 +28,7 @@
 
 ## How will you get there?
 
-- ...fill in...
+- Projects and classes
 
 
 
